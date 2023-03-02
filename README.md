@@ -1,12 +1,12 @@
 # Mini Project with SASS
 
 <p align="center">
-  <img width="400" src="./source/imagens/imagem-README.png"> </p>
+  <img width="900" src="./source/imagens/imagem-README.png"> </p>
 
 </br>
 <p align="center">  
   
-  # How did the idea come about?
+  # Why was this project made?
   
 This page was developed using HTML and SASS.
 
